@@ -1,0 +1,24 @@
+{
+  "name": "tnez-static",
+  "version": "0.1.0",
+  "description": "My personal launcpad for static sites - extended from nozzle/react-static",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests defined\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnez/static.git"
+  },
+  "keywords": [
+    "react",
+    "static",
+    "static-generator"
+  ],
+  "author": "Travis Nesland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnez/static/issues"
+  },
+  "homepage": "https://github.com/tnez/static#readme"
+}
