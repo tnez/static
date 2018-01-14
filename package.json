@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/tnez/static#readme",
   "dependencies": {
+    "ramda": "^0.25.0",
     "react-static": "^4.8.4"
   },
   "devDependencies": {
