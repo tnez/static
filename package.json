@@ -4,6 +4,9 @@
   "description": "My personal launcpad for static sites - extended from nozzle/react-static",
   "main": "index.js",
   "scripts": {
+    "build": "react-static build",
+    "serve": "serve dist -p 3000",
+    "start": "react-static start",
     "test": "echo \"no tests defined\""
   },
   "repository": {
@@ -20,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/tnez/static/issues"
   },
-  "homepage": "https://github.com/tnez/static#readme"
+  "homepage": "https://github.com/tnez/static#readme",
+  "dependencies": {
+    "react-static": "^4.8.4"
+  },
+  "devDependencies": {
+    "serve": "^6.4.8"
+  }
 }
